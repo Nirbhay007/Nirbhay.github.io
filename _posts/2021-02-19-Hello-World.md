@@ -20,7 +20,7 @@ This is the beginning will keep you updated.
 * Three things i love:-
 1. _Working Together_.
 2. _Experimenting things_.
-3. _The What,How of anything_.
+3. _The What,How of everything_.
 
 ----
 ****
