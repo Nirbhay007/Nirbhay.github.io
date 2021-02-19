@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Trying to create a difference each day with code.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Do reach out to me if you need any kind of help.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:nirbhaysinghbe1@gmail.com)
+
