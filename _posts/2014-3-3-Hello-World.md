@@ -3,49 +3,24 @@ layout: post
 title: Welcome To My Blog
 ---
 
+> Hello World
+>> -_-
+
 This is the beginning will keep you updated.
 
-## Header 2##
-
-### Header 3
-
-#### Header 4
 
 
-An image, located within /images
+### Lets Start With Introduction
 
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
+* Purpose:
+* I have started the blog for writing some experimental thought process after achieving any short goal.
 
-1. An
-2. ordered
-3. list
-
-Inline markup styles:
-
-- _italics_
-- **bold**
-- `code()`
-
-> Blockquote
->> Nested Blockquote
-
-Syntax highlighting can be used with triple backticks, like so:
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-```
-
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
-
-Finally, horizontal lines
+* Three things i love:-
+1. _Working Together_.
+2. _Experimenting things_.
+3. _The What,How of anything_.
 
 ----
 ****
