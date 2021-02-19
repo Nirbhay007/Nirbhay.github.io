@@ -11,5 +11,5 @@ Do reach out to me if you need any kind of help.
 
 ### Contact me
 
-[email@domain.com](mailto:nirbhaysinghbe1@gmail.com)
+[nirbhaysinghbe1@gmail.com](mailto:nirbhaysinghbe1@gmail.com)
 
